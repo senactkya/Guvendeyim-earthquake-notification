@@ -177,7 +177,7 @@ This project is licensed under the MIT License. / Bu proje MIT Lisansı ile lisa
 
 *Guidance: Fill in your personal details. / Rehber: Kişisel bilgilerinizi doldurun.*
 
-- **GitHub Link:** [<Github>](https://github.com/senactkya/Guvendeyim-earthquake-notification)
+- **GitHub Link:** [Github](https://github.com/senactkya/Guvendeyim-earthquake-notification)
 - **Student Number / Öğrenci Numarası:** 24010501050
 - **Full Name / Ad Soyad:** Senanur Çetükkaya
 
