@@ -1,4 +1,4 @@
-# <Project Title / Proje Başlığı>
+# <Güvendeyim - Deprem Bildirim Uygulaması>
 
 > **Project Overview / Proje Özeti**
 > Briefly describe what your project does and the problem it solves. 
@@ -177,7 +177,7 @@ This project is licensed under the MIT License. / Bu proje MIT Lisansı ile lisa
 
 *Guidance: Fill in your personal details. / Rehber: Kişisel bilgilerinizi doldurun.*
 
-- **GitHub Link:** [<your_github_url>](https://github.com/senactkya/Guvendeyim-earthquake-notification)
+- **GitHub Link:** [<Github Linki>](https://github.com/senactkya/Guvendeyim-earthquake-notification)
 - **Student Number / Öğrenci Numarası:** 24010501050
 - **Full Name / Ad Soyad:** Senanur Çetükkaya
 
@@ -185,5 +185,5 @@ This project is licensed under the MIT License. / Bu proje MIT Lisansı ile lisa
 
 ## 🔄 Changelog / Değişiklik Günlüğü
 
-- **v1.0.0** - *YYYY-MM-DD*
+- **v1.0.0** - **25.06.2026**
   - Initial release. / İlk sürüm.
