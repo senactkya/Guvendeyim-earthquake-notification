@@ -1,0 +1,6 @@
+{
+  "name": "GÜVENDEYİM",
+  "description": "Deprem ve acil durumlarda anlık konum paylaşımı, internetsiz dijital düdük, afet çantası kontrolü, Kandilli Rasathanesi entegrasyonu ve aile planı sunan acil durum asistanı.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
